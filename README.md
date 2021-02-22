@@ -1,3 +1,2 @@
-# Demo application to roll dice ( 1 - 6) using accelorometer sensor value of Android mobile phones. 
-Demo:
+Six sided dice roller application using in built accelerometer sensor of the android mobile phone.
 https://drive.google.com/drive/folders/11nggJEZtfMTLFyECeqGvnOonmJqH6c97?usp=sharing
